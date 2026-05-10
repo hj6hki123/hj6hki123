@@ -114,46 +114,15 @@ Solidity     smart contract experiments
 
 <div align="center">
 
-## featured lanes
-
-</div>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Game automation</h3>
-      <p>Auto play tooling and GUI utilities for rhythm/game workflows.</p>
-      <a href="https://github.com/hj6hki123/ssm-gui"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hj6hki123&repo=ssm-gui&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1&icon_color=A855F7" /></a>
-    </td>
-    <td width="50%">
-      <h3>AI / retrieval</h3>
-      <p>RAG, 3D retrieval, computer vision, and model experiments.</p>
-      <a href="https://github.com/hj6hki123/part2word_rag"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hj6hki123&repo=part2word_rag&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1&icon_color=A855F7" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Embedded systems</h3>
-      <p>STM32, CC3200, dsPIC, and hardware logic playgrounds.</p>
-      <a href="https://github.com/hj6hki123/STM32L053_R"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hj6hki123&repo=STM32L053_R&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1&icon_color=A855F7" /></a>
-    </td>
-    <td width="50%">
-      <h3>Apps and experiments</h3>
-      <p>Swift apps, blockchain projects, web GUIs, and dev utilities.</p>
-      <a href="https://github.com/hj6hki123/Asspp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hj6hki123&repo=Asspp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1&icon_color=A855F7" /></a>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
 ## github telemetry
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hj6hki123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=CBD5E1&ring_color=7C3AED&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hj6hki123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=CBD5E1&langs_count=10" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hj6hki123&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hj6hki123&theme=tokyonight" />
 </p>
 
 <p>
