@@ -117,10 +117,6 @@ Solidity     smart contract experiments
 ## github telemetry
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hj6hki123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=A855F7&text_color=CBD5E1&ring_color=7C3AED&count_private=true&include_all_commits=true" />
-</p>
-
-<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hj6hki123&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hj6hki123&theme=tokyonight" />
 </p>
@@ -136,29 +132,6 @@ Solidity     smart contract experiments
 </div>
 
 ---
-
-<div align="center">
-
-## trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hj6hki123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-## connect
-
-<p>
-  <a href="https://github.com/hj6hki123">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:hj6hki123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:06b6d4,70:7c3aed,100:020617&height=130&section=footer&animation=twinkling" />
 
