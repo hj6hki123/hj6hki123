@@ -75,10 +75,6 @@
 </p>
 
 <p>
-  <img src="./assets/metrics.plugin.svg" alt="Metrics deep dive" />
-</p>
-
-<p>
   <img src="./assets/snake.svg" alt="Contribution snake" />
 </p>
 
