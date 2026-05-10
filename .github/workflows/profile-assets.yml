@@ -43,19 +43,6 @@ jobs:
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate metrics overview
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: hj6hki123
-          filename: assets/metrics.base.svg
-          template: classic
-          base: ""
-          config_timezone: Asia/Taipei
-          config_animations: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
         with:

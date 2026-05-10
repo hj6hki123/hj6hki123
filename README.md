@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:7c3aed,100:06b6d4&height=210&section=header&text=hj6hki123&fontSize=66&fontAlignY=36&fontColor=ffffff&animation=twinkling&desc=AI%20%2F%20Automation%20%2F%20Embedded%20%2F%20Full-Stack&descAlignY=58&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=58&lines=Building+useful+tools+across+software+and+hardware.;AI+%2B+Game+Automation+%2B+Embedded+Systems;Python+%2F+Go+%2F+C%23+%2F+Swift+%2F+C+%2F+TypeScript)](https://git.io/typing-svg)
+<img src="./assets/jokes.svg" alt="Programming joke" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=hj6hki123&style=for-the-badge&color=7c3aed" />
@@ -50,10 +50,22 @@
 
 <table>
   <tr>
-    <td align="center" width="25%"><b>AI / RAG</b><br />Retrieval, vision, notebooks</td>
-    <td align="center" width="25%"><b>Automation</b><br />Game tools and workflows</td>
-    <td align="center" width="25%"><b>Embedded</b><br />STM32, C, Verilog, MCU</td>
-    <td align="center" width="25%"><b>Apps</b><br />Swift, C#, web dashboards</td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/AI%20%2F%20RAG-7C3AED?style=for-the-badge" /><br />
+      retrieval<br />vision<br />notebooks
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Automation-06B6D4?style=for-the-badge" /><br />
+      game tooling<br />workflow scripts<br />desktop helpers
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Embedded-111827?style=for-the-badge" /><br />
+      STM32<br />C / Verilog<br />MCU projects
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Apps-F43F5E?style=for-the-badge" /><br />
+      Swift<br />C#<br />web dashboards
+    </td>
   </tr>
 </table>
 
@@ -63,7 +75,7 @@
 
 <div align="center">
 
-## Generated Cards
+## GitHub Activity
 
 <p>
   <img src="./assets/stats.svg" alt="GitHub stats" />
@@ -71,15 +83,7 @@
 </p>
 
 <p>
-  <img src="./assets/metrics.base.svg" alt="Metrics overview" />
-</p>
-
-<p>
   <img src="./assets/snake.svg" alt="Contribution snake" />
-</p>
-
-<p>
-  <img src="./assets/jokes.svg" alt="Programming joke" />
 </p>
 
 </div>
