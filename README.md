@@ -63,15 +63,27 @@
 
 <div align="center">
 
-## GitHub Overview
+## Generated Cards
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hj6hki123&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hj6hki123&theme=tokyonight" />
+  <img src="./assets/stats.svg" alt="GitHub stats" />
+  <img src="./assets/top-langs.svg" alt="Top languages" />
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hj6hki123&theme=tokyonight" />
+  <img src="./assets/metrics.base.svg" alt="Metrics overview" />
+</p>
+
+<p>
+  <img src="./assets/metrics.plugin.svg" alt="Metrics deep dive" />
+</p>
+
+<p>
+  <img src="./assets/snake.svg" alt="Contribution snake" />
+</p>
+
+<p>
+  <img src="./assets/jokes.svg" alt="Programming joke" />
 </p>
 
 </div>
