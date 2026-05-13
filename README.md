@@ -7,15 +7,12 @@
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td width="60%" valign="top" style="border: none;">
-      <p>Hi there! 👋 I'm a developer passionate about AI, automation, embedded systems, and full-stack development.<br/>
-      Always eager to learn new things and build cool tools.</p>
-      <br/>
-      <b>Focus Areas:</b>
+      <b>What I Actually Do:</b>
       <ul>
-        <li>🤖 <b>AI / RAG:</b> retrieval, vision, notebooks</li>
-        <li>⚙️ <b>Automation:</b> game tooling, workflow scripts, desktop helpers</li>
-        <li>🔌 <b>Embedded:</b> STM32, C / Verilog, MCU projects</li>
-        <li>💻 <b>Apps:</b> Swift, C#, web dashboards</li>
+        <li>🤖 <b>AI / RAG:</b> Teaching machines to read my notebooks so I don't have to.</li>
+        <li>⚙️ <b>Automation:</b> Writing 10-hour scripts to save 5 minutes of manual work.</li>
+        <li>🔌 <b>Embedded:</b> Turning coffee into C and Verilog (and occasionally magic smoke).</li>
+        <li>💻 <b>Apps:</b> Building dashboards to visualize why my code isn't working yet.</li>
       </ul>
     </td>
     <td width="40%" valign="top" align="center" style="border: none;">
