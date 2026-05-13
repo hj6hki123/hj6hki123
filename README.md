@@ -9,13 +9,13 @@
     <td width="60%" valign="top" style="border: none;">
       <b>About Me:</b>
       <p>
-        "Stay curious, stay humble, and keep building."<br/><br/>
-        I'm a developer who enjoys the process of turning complex ideas into clean, functional code. Whether it's exploring the depths of AI or tinkering with embedded hardware, I believe that every challenge is an opportunity to learn something new.
+        No deep life mottos here, just some tech I'm exploring.<br/>
+        I enjoy building things and know a bit about everything from AI to hardware.
       </p>
       <ul>
-        <li>🔭 Currently focused on mastering new technologies.</li>
-        <li>🌱 Lifelong learner and problem solver.</li>
-        <li>⚡ "The best way to predict the future is to invent it."</li>
+        <li>Exploring new tech and trying to stay up to date.</li>
+        <li>Constantly learning, even if the progress is slow sometimes.</li>
+        <li>Coding, tinkering with hardware, and making cool stuff.</li>
       </ul>
     </td>
     <td width="40%" valign="top" align="center" style="border: none;">
