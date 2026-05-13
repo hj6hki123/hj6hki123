@@ -16,6 +16,7 @@
         <li>Exploring new tech and trying to stay up to date.</li>
         <li>Constantly learning, even if the progress is slow sometimes.</li>
         <li>Coding, tinkering with hardware, and making cool stuff.</li>
+        <li>They say AI is replacing humans, so if you can't beat them, join them!</li>
       </ul>
     </td>
     <td width="40%" valign="top" align="center" style="border: none;">
