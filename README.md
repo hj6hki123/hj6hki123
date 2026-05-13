@@ -7,12 +7,15 @@
 <table width="100%" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td width="60%" valign="top" style="border: none;">
-      <b>What I Actually Do:</b>
+      <b>About Me:</b>
+      <p>
+        "Stay curious, stay humble, and keep building."<br/><br/>
+        I'm a developer who enjoys the process of turning complex ideas into clean, functional code. Whether it's exploring the depths of AI or tinkering with embedded hardware, I believe that every challenge is an opportunity to learn something new.
+      </p>
       <ul>
-        <li>🤖 <b>AI / RAG:</b> Teaching machines to read my notebooks so I don't have to.</li>
-        <li>⚙️ <b>Automation:</b> Writing 10-hour scripts to save 5 minutes of manual work.</li>
-        <li>🔌 <b>Embedded:</b> Turning coffee into C and Verilog (and occasionally magic smoke).</li>
-        <li>💻 <b>Apps:</b> Building dashboards to visualize why my code isn't working yet.</li>
+        <li>🔭 Currently focused on mastering new technologies.</li>
+        <li>🌱 Lifelong learner and problem solver.</li>
+        <li>⚡ "The best way to predict the future is to invent it."</li>
       </ul>
     </td>
     <td width="40%" valign="top" align="center" style="border: none;">
